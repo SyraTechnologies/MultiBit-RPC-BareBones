@@ -24,7 +24,7 @@ Vendor: php.net
 Cartridge-Version: 0.0.21
 Compatible-Versions:
 - 0.0.20
-Cartridge-Vendor: redhat
+Cartridge-Vendor: redhart
 Categories:
 - service
 - php
