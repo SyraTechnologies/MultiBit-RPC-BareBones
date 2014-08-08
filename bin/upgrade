@@ -1,5 +1,5 @@
 #!/bin/bash -eu
-
+#
 php_version=$1
 curr=$2
 next=$3

@@ -1,5 +1,5 @@
 #!/bin/bash -eu
-
+#
 if [[ -d /usr/lib64 ]]; then
   _libdir=/usr/lib64
 else
